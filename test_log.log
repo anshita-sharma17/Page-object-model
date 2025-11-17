@@ -1,0 +1,78 @@
+2025-07-16 18:17:06,650 - INFO - LoginPage initialized.
+2025-07-16 18:17:06,806 - INFO - Running test: test_checkout_flow
+2025-07-16 18:17:07,603 - INFO - Clicked login button.
+2025-07-16 18:17:12,664 - INFO - No alert appeared after login.
+2025-07-16 18:17:12,664 - INFO - Test 'test_checkout_flow' completed.
+
+2025-07-16 18:17:19,917 - INFO - LoginPage initialized.
+2025-07-16 18:17:19,936 - INFO - Running test: test_checkout_flow
+2025-07-16 18:17:21,055 - INFO - Clicked login button.
+2025-07-16 18:17:26,129 - INFO - No alert appeared after login.
+2025-07-16 18:17:26,129 - INFO - Test 'test_checkout_flow' completed.
+
+2025-07-16 18:17:32,082 - INFO - LoginPage initialized.
+2025-07-16 18:17:32,101 - INFO - Running test: test_logout
+2025-07-16 18:17:33,226 - INFO - Clicked login button.
+2025-07-16 18:17:38,295 - INFO - No alert appeared after login.
+2025-07-16 18:17:38,295 - INFO - Test 'test_logout' completed.
+
+2025-07-16 18:17:45,464 - INFO - LoginPage initialized.
+2025-07-16 18:17:45,489 - INFO - Running test: test_login_valid_credentials
+2025-07-16 18:17:46,408 - INFO - Clicked login button.
+2025-07-16 18:17:51,477 - INFO - No alert appeared after login.
+2025-07-16 18:17:51,477 - INFO - Test 'test_login_valid_credentials' completed.
+
+2025-07-16 18:17:57,840 - INFO - LoginPage initialized.
+2025-07-16 18:18:02,775 - INFO - LoginPage initialized.
+2025-10-13 14:30:13,393 - INFO - LoginPage initialized.
+2025-10-13 14:30:13,712 - INFO - Running test: test_checkout_flow
+2025-10-13 14:30:15,338 - INFO - Clicked login button.
+2025-10-13 14:30:20,373 - INFO - No alert appeared after login.
+2025-10-13 14:30:20,373 - INFO - Test 'test_checkout_flow' completed.
+
+2025-10-13 14:30:27,405 - INFO - LoginPage initialized.
+2025-10-13 14:30:27,425 - INFO - Running test: test_checkout_flow
+2025-10-13 14:30:42,328 - INFO - LoginPage initialized.
+2025-10-13 14:30:42,341 - INFO - Running test: test_logout
+2025-10-13 14:30:43,292 - INFO - Clicked login button.
+2025-10-13 14:30:48,354 - INFO - No alert appeared after login.
+2025-10-13 14:30:48,355 - INFO - Test 'test_logout' completed.
+
+2025-10-13 14:30:54,495 - INFO - LoginPage initialized.
+2025-10-13 14:30:54,512 - INFO - Running test: test_login_valid_credentials
+2025-10-13 14:31:08,577 - INFO - LoginPage initialized.
+2025-10-13 14:31:08,590 - INFO - Running test: test_login_wrong_username
+2025-10-13 14:31:22,849 - INFO - LoginPage initialized.
+2025-10-13 14:31:22,865 - INFO - Running test: test_login_wrong_password
+2025-10-13 14:31:36,954 - INFO - LoginPage initialized.
+2025-10-13 14:31:36,969 - INFO - Running test: test_login_no_input_given
+2025-10-13 14:31:51,331 - INFO - LoginPage initialized.
+2025-10-13 14:31:51,348 - INFO - Running test: test_add_single_product
+2025-10-13 14:32:05,519 - INFO - LoginPage initialized.
+2025-10-13 14:32:05,532 - INFO - Running test: test_add_multiple_products
+2025-10-31 15:45:52,114 - INFO - LoginPage initialized.
+2025-10-31 15:45:52,436 - INFO - Running test: test_checkout_flow
+2025-10-31 15:45:53,920 - INFO - Clicked login button.
+2025-10-31 15:45:58,962 - INFO - No alert appeared after login.
+2025-10-31 15:45:58,963 - INFO - Test 'test_checkout_flow' completed.
+
+2025-10-31 15:46:05,939 - INFO - LoginPage initialized.
+2025-10-31 15:46:05,960 - INFO - Running test: test_checkout_flow
+2025-10-31 15:46:22,550 - INFO - LoginPage initialized.
+2025-10-31 15:46:22,566 - INFO - Running test: test_logout
+2025-10-31 15:46:23,700 - INFO - Clicked login button.
+2025-10-31 15:46:28,743 - INFO - No alert appeared after login.
+2025-10-31 15:46:28,744 - INFO - Test 'test_logout' completed.
+
+2025-10-31 15:46:35,466 - INFO - LoginPage initialized.
+2025-10-31 15:46:35,489 - INFO - Running test: test_login_valid_credentials
+2025-10-31 15:46:49,918 - INFO - LoginPage initialized.
+2025-10-31 15:46:49,946 - INFO - Running test: test_login_wrong_username
+2025-10-31 15:47:04,416 - INFO - LoginPage initialized.
+2025-10-31 15:47:04,432 - INFO - Running test: test_login_wrong_password
+2025-10-31 15:47:19,247 - INFO - LoginPage initialized.
+2025-10-31 15:47:19,263 - INFO - Running test: test_login_no_input_given
+2025-10-31 15:47:36,420 - INFO - LoginPage initialized.
+2025-10-31 15:47:36,440 - INFO - Running test: test_add_single_product
+2025-10-31 15:47:51,397 - INFO - LoginPage initialized.
+2025-10-31 15:47:51,413 - INFO - Running test: test_add_multiple_products
